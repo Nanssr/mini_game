@@ -21,7 +21,7 @@ public class Person  extends Thread{
 		int w=240;
 		int h=250;
         int index=0;
-        int blood=400;
+        int blood=410;
         int energy=200;
         int jumpcount=2;
         int  score=0;
